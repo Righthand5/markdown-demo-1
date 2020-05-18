@@ -19,5 +19,5 @@ console.log(b)
 ```
 我的网站是 [我的官网](https://xyx1530966653.com)
 
-![picture]( 图片1.png )
+![picture](图片1.png)
 
