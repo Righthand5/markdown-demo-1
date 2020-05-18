@@ -13,11 +13,14 @@
 2. 迪丽热巴
 3. 古力娜扎
    
+![picture2](1.png)
+
 ```javascript
 var b=2
 console.log(b)
 ```
+
 我的网站是 [我的官网](https://xyx1530966653.com)
 
-![picture](1.png)
+
 
